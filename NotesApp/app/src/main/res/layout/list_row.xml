@@ -1,0 +1,12 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appcompat="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/itemName"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:padding="10dp"
+    android:text="item"
+    appcompat:autoSizeTextType="uniform"
+    appcompat:autoSizeMinTextSize="15sp"
+    appcompat:autoSizeMaxTextSize="100sp"
+    appcompat:autoSizeStepGranularity="2sp" />

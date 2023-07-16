@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="save_note">SAVE NOTE</string>
+    <string name="priority">Note Priority: </string>
+</resources>
