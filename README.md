@@ -47,3 +47,8 @@ The "Delete All Notes" button, located above the list of notes on the main scree
 
 The notes are stored in a MySQL database. Here is the database schema used for storing the notes.
 
+For a practical understanding of all these features, refer to the video demonstration below:
+
+https://github.com/mlk500/NotesAppAndroid/assets/57171298/a249e7c5-9b4d-4171-86e9-b2bbf483abfa
+
+
